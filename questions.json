@@ -1,0 +1,42 @@
+[
+  {
+    "qid": 0,
+    "question": "What is Artificial intelligence?",
+    "answer": "and procedures for resolving ethical dilemmas",
+    "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_id": "e070977f-05e8-48c4-8f74-0b660b9fe27e",
+    "category": "factual"
+  },
+  {
+    "qid": 1,
+    "question": "What is Expert system?",
+    "answer": "by venture capital started appearing regularly",
+    "source_url": "https://en.wikipedia.org/wiki/Expert_system",
+    "chunk_id": "94ce6b4c-92c9-473c-a127-6d41879660d2",
+    "category": "factual"
+  },
+  {
+    "qid": 2,
+    "question": "Why is Reinforcement learning important?",
+    "answer": ", S { \\displaystyle { \\mathcal { S } } } ; A set of actions ( the action space ) , A { \\displaystyle { \\mathcal { A } } } , of the agent ; P a ( s , s \u2032 ) = Pr ( S t + 1 = s \u2032 \u2223 S t = s , A t = a ) { \\displaystyle P_ { a } ( s , s ' ) =\\Pr ( S_ { t+1 } { = } s'\\mid S_ { t } { = } s , A_ { t } { = } a ) } , the transition probability ( at time t { \\displaystyle t } ) from state s { \\displaystyle s } to state s \u2032 { \\displaystyle s ' } under action a { \\displaystyle a }",
+    "source_url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "chunk_id": "36f68294-3196-4ec8-bb52-c19cca504f9d",
+    "category": "inferential"
+  },
+  {
+    "qid": 3,
+    "question": "Why is Machine learning important?",
+    "answer": "; for instance , each decision tree is trained on random data from the training set",
+    "source_url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "chunk_id": "86c2d809-f3d9-4afd-9ebe-8c5e2a3dc8ed",
+    "category": "inferential"
+  },
+  {
+    "qid": 4,
+    "question": "What is Computer vision?",
+    "answer": "Progress in convolutional neural networks ( CNNs ) has improved the accurate detection of disease in medical images , particularly in cardiology , pathology , dermatology , and radiology",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_vision",
+    "chunk_id": "0c32d0e2-b7a1-4999-8509-dc5267589a21",
+    "category": "factual"
+  }
+]

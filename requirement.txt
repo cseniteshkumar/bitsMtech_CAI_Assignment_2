@@ -25,3 +25,9 @@ nltk
 transformers
 torch
 tqdm
+
+
+
+### Required Libraries. 
+gradio
+chromadb
