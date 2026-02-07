@@ -13,3 +13,15 @@ onnx
 deepspeed
 jupyter
 ipykernel
+
+#### Project Specific
+wikipedia-api
+beautifulsoup4
+sentence-transformers
+## faiss-gpu
+faiss-gpu-cu12
+rank-bm25 
+nltk
+transformers
+torch
+tqdm
