@@ -108,6 +108,15 @@ venv.bak/
 .caiAssignmentEnv
 .caiAssignmentEnv/
 
+
+### chroma-DB
+chroma-DB/
+
+
+### wikipedia
+wikipedia
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
