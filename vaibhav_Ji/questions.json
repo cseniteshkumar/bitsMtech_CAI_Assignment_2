@@ -1,0 +1,1002 @@
+[
+  {
+    "qid": 0,
+    "question": "What is the term for the process of converting atmospheric hydrogen into methane?",
+    "answer": "(d).",
+    "source_url": "https://en.wikipedia.org/wiki/Ecology",
+    "source_ids": [
+      "9fd65dc5-da56-46fd-a576-0f29c9717af2"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 1,
+    "question": "What is the most likely reason that text mining software can be used to build large dossiers of information about specific people and events ?",
+    "answer": "Because it can be used to build large dossiers .",
+    "source_url": "https://en.wikipedia.org/wiki/Text_mining",
+    "source_ids": [
+      "19e1de1e-ffef-476e-a613-6539aa69cb11"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 2,
+    "question": "Question: Which of the following is true according to the passage?Options:A The Countess Keijsers of Limburg-Stirum is a famous person.B The Countess Keijsers of Limburg-Stirum is a famous person.C The Countess Keijsers of Limburg-Stirum is a famous person.D The Counte",
+    "answer": "Count Eleonore Keijsers of Limburg-Stirum",
+    "source_url": "https://en.wikipedia.org/wiki/Charles_de_Limburg_Stirum",
+    "source_ids": [
+      "ca7d6ea5-e791-44b2-9035-ccd9a5532d68"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 3,
+    "question": "Which of the following is true of the Miasma Theory?",
+    "answer": "It is a model of disease in which poor air quality was blamed for illness.",
+    "source_url": "https://en.wikipedia.org/wiki/Epidemiology",
+    "source_ids": [
+      "51802d8d-0b84-49e5-a2a8-3bc8860aa4e1"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 4,
+    "question": "Which ship was laid down first , USS Shreveport or USS Shreveport?",
+    "answer": "USS Shreveport",
+    "source_url": "https://en.wikipedia.org/wiki/USS_Shreveport_(PF-23)",
+    "source_ids": [
+      "b7365656-5d0f-439a-bbe9-6b6016e1975a"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 5,
+    "question": "What may be the reason for their bias ?",
+    "answer": "They do not have the data to train .",
+    "source_url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "source_ids": [
+      "edb13dbd-f796-4c58-852f-785c05bc688a"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 6,
+    "question": "What is the earliest time period mentioned ?",
+    "answer": "prehistoric Europe",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_Europe",
+    "source_ids": [
+      "27b7ace4-8c53-4459-af12-fb0b0334f507"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 7,
+    "question": "Which of the following is true of the root node ?",
+    "answer": "The root node is a proof tree .",
+    "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "source_ids": [
+      "03397c5f-db43-450b-85f9-cd41587a4e0f"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 8,
+    "question": "Which of the following is true of the driver ?",
+    "answer": "He is a speeding ticket holder .",
+    "source_url": "https://en.wikipedia.org/wiki/New_York_City_speed_camera_program",
+    "source_ids": [
+      "5af0d156-61b6-4dea-94a6-a58a1a4cc6a0"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 9,
+    "question": "What is the likely relationship between the author and the author?",
+    "answer": "(iii).",
+    "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+    "source_ids": [
+      "a9e0c468-38de-42d3-827f-b238ef51a4d0"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 10,
+    "question": "What is the name of the book that Anastasia is based on?",
+    "answer": "Albert , Gleb",
+    "source_url": "https://en.wikipedia.org/wiki/Russian_Revolution",
+    "source_ids": [
+      "70d5f51b-2d3c-4339-9f6b-4abfe6585094"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 11,
+    "question": "Which compound has a narrow therapeutic index ?",
+    "answer": "A compound with a narrow therapeutic index .",
+    "source_url": "https://en.wikipedia.org/wiki/Pharmacology",
+    "source_ids": [
+      "76fdbbed-224c-436c-87a3-4d7056fa5acb"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 12,
+    "question": "What may be the reason why they were able to develop a supercomputer ?",
+    "answer": "They wanted to make it easier to use .",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_computing",
+    "source_ids": [
+      "d9e51dd5-480c-4fcb-af68-ef95f68802d3"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 13,
+    "question": "Which of the following is true of the project?",
+    "answer": "It is a project that is written off.",
+    "source_url": "https://en.wikipedia.org/wiki/Microeconomics",
+    "source_ids": [
+      "e25636ab-1421-47fd-be0a-fb448eafd8b5"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 14,
+    "question": "What is the name of the building that was built in the Middle Kingdom?",
+    "answer": "pyramid",
+    "source_url": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+    "source_ids": [
+      "ff06077c-c72a-4828-a2a1-b007cc9f2e67"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 15,
+    "question": "Which of the following is true of the parties to the contract ?",
+    "answer": "They are both parties to the contract .",
+    "source_url": "https://en.wikipedia.org/wiki/Contract",
+    "source_ids": [
+      "10a2d5bc-251c-4e06-82ed-c66c37dcb3dd"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 16,
+    "question": "Which of the following is true of NLRC5?",
+    "answer": "It is an intracellular protein that plays a role in the immune system",
+    "source_url": "https://en.wikipedia.org/wiki/NLRC5",
+    "source_ids": [
+      "88a2de6e-4559-4750-ab76-13c6cc2176d5"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 17,
+    "question": "What may be the reason for the plan being modified?",
+    "answer": "Because it was a strategy that was based on the German right wing",
+    "source_url": "https://en.wikipedia.org/wiki/World_War_I",
+    "source_ids": [
+      "ec7fe352-3a4f-4d7d-8908-3e9b68ce4563"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 18,
+    "question": "What may be the reason for the building being rebuilt ?",
+    "answer": "It was a church .",
+    "source_url": "https://en.wikipedia.org/wiki/Harbledown",
+    "source_ids": [
+      "5aa2ecc8-81fe-404d-8313-f6812b233913"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 19,
+    "question": "What may be the reason why the ships were on the Kattegat?",
+    "answer": "They were training for the winter training cruise.",
+    "source_url": "https://en.wikipedia.org/wiki/SMS_Preussen_(1903)",
+    "source_ids": [
+      "b2c7d2b8-3fdb-4c48-a1a0-0893fcf216bf"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 20,
+    "question": "What may be the reason for the decline of Buddhism ?",
+    "answer": "Buddhism was a religion .",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+    "source_ids": [
+      "8017bab6-ec3d-4ac1-9719-457d2fd0baee"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 21,
+    "question": "Which of the following is true of the term patents ?",
+    "answer": "The term patents does not begin with inventions .",
+    "source_url": "https://en.wikipedia.org/wiki/Intellectual_property",
+    "source_ids": [
+      "43cbe805-31f4-4d50-8536-4a9b1b8a421b"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 22,
+    "question": "Which of the following is true of biotechnology?",
+    "answer": "Biotechnology is a scientific discipline.",
+    "source_url": "https://en.wikipedia.org/wiki/Biochemistry",
+    "source_ids": [
+      "13fc605f-cc84-4bdb-9d71-f1ef27da2be3"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 23,
+    "question": "What may be the reason for the fact that the government is a member of the CIA ?",
+    "answer": "The government is a member of the CIA .",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_security",
+    "source_ids": [
+      "dfbeab70-6b56-443c-b945-e1302669dbfd"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 24,
+    "question": "Which country was the Japanese first to capture the naval and air center of Port Moresby?",
+    "answer": "Australia",
+    "source_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea_order_of_battle",
+    "source_ids": [
+      "9e25eee8-4dba-4d0e-a935-2350a2c441e2"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 25,
+    "question": "Which of the following is true of mass spectrometry : ionization , crystallography , or infrared spectroscopy ?",
+    "answer": "ionization , crystallography , or infrared spectroscopy",
+    "source_url": "https://en.wikipedia.org/wiki/Organic_chemistry",
+    "source_ids": [
+      "898714bb-19e5-4ff3-8765-d7e06d2275e7"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 26,
+    "question": "Which of the following is true of the biography ?",
+    "answer": "The biography provides insights and updates as well as a solid background on Morrison 's early life .",
+    "source_url": "https://en.wikipedia.org/wiki/Van_Morrison:_Too_Late_to_Stop_Now",
+    "source_ids": [
+      "3482f891-66fa-45d3-8276-9e7921a4f622"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 27,
+    "question": "What will happen to the author after he has finished his assignment?",
+    "answer": "he will be able to make a decision",
+    "source_url": "https://en.wikipedia.org/wiki/Machine_ethics",
+    "source_ids": [
+      "eb9ec8f6-d4f5-471e-b5b6-d6f897b0cce6"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 28,
+    "question": "What is the legal basis for a contract ?",
+    "answer": "law",
+    "source_url": "https://en.wikipedia.org/wiki/Contract",
+    "source_ids": [
+      "48beace7-ac4b-45be-8e07-7b3bd0033b90"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 29,
+    "question": "What may be the reason for their desire to see the fight ?",
+    "answer": "They want to see the champions .",
+    "source_url": "https://en.wikipedia.org/wiki/Terence_Crawford",
+    "source_ids": [
+      "fc64fe1d-46bb-4095-8573-e775f7db333d"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 30,
+    "question": "What is the likely relationship between Guericke and Robert Boyle?",
+    "answer": "(iii).",
+    "source_url": "https://en.wikipedia.org/wiki/Thermodynamics",
+    "source_ids": [
+      "e845c745-72cb-4256-9e47-676fd42c9809"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 31,
+    "question": "What is the name of the hospital that Central and North West London NHS Foundation Trust is a part of?",
+    "answer": "Hounslow",
+    "source_url": "https://en.wikipedia.org/wiki/Central_and_North_West_London_NHS_Foundation_Trust",
+    "source_ids": [
+      "5149b0f8-057e-4c9c-955c-deaa5e49de7d"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 32,
+    "question": "What may be the reason for the use of BERT ?",
+    "answer": "It is a search engine that is used to find information .",
+    "source_url": "https://en.wikipedia.org/wiki/Information_retrieval",
+    "source_ids": [
+      "b740ccc3-ade6-4f87-b1d2-57314c4071de"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 33,
+    "question": "What is the main reason that the State List grants the states control over the police ?",
+    "answer": "The state is a state .",
+    "source_url": "https://en.wikipedia.org/wiki/Constitution_of_India",
+    "source_ids": [
+      "1e8cfbfb-8942-4165-bdfa-3079a3784cda"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 34,
+    "question": "What is the primary source of electrons in water ?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Solar_energy",
+    "source_ids": [
+      "1753bd76-c738-4599-a4bf-52a02fd01453"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 35,
+    "question": "Which of the following is true of Hans Carl von Carlowitz ?",
+    "answer": "He is a senior mining administrator .",
+    "source_url": "https://en.wikipedia.org/wiki/Sustainable_development",
+    "source_ids": [
+      "b2b62685-f910-4b3c-92a7-82cfe140d638"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 36,
+    "question": "What may be the reason for the lack of ad hoc action ?",
+    "answer": "The power of government is not a factor in the decision making process .",
+    "source_url": "https://en.wikipedia.org/wiki/Rule_of_law",
+    "source_ids": [
+      "f65fc14a-7e84-4f34-b14a-a6350f98e57f"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 37,
+    "question": "What happened to the Germans in the early 1950s?",
+    "answer": "They began to re-industrialize and rebuild the West Germ",
+    "source_url": "https://en.wikipedia.org/wiki/Cold_War",
+    "source_ids": [
+      "26deed2a-053b-42b9-a963-1a1fcceca049"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 38,
+    "question": "Which programming language is the most popular according to the TIOBE index ?",
+    "answer": "(iii)",
+    "source_url": "https://en.wikipedia.org/wiki/Programming_language",
+    "source_ids": [
+      "7c90fddf-6172-4de5-825b-a7953bf192aa"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 39,
+    "question": "Which happened first, the Entente Cordiale or the Anglo-Russian Convention?",
+    "answer": "Entente Cordiale",
+    "source_url": "https://en.wikipedia.org/wiki/World_War_I",
+    "source_ids": [
+      "97504745-e4d1-470d-b95e-890d55f6f5de"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 40,
+    "question": "What may be the reason for Pickering 's vision ?",
+    "answer": "He wanted to see the stars .",
+    "source_url": "https://en.wikipedia.org/wiki/Astrophysics",
+    "source_ids": [
+      "592a2702-f8a9-45e0-ac56-356f7bca69b2"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 41,
+    "question": "What is the most likely reason that the chimpanzees are a different species than humans?",
+    "answer": "They share a common ancestor.",
+    "source_url": "https://en.wikipedia.org/wiki/Evolution",
+    "source_ids": [
+      "00b13c38-a7cb-4189-b264-70db3a69c440"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 42,
+    "question": "What may be the reason for the event being called the Declaration of Delhi ?",
+    "answer": "The event was a political event .",
+    "source_url": "https://en.wikipedia.org/wiki/Rule_of_law",
+    "source_ids": [
+      "7d05c91b-a0d3-4215-903f-d409cd878946"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 43,
+    "question": "Which country is the DWT for ?",
+    "answer": "Lebanon",
+    "source_url": "https://en.wikipedia.org/wiki/International_Labour_Organization",
+    "source_ids": [
+      "7882aef2-82a7-47e7-9e74-5dc5d538ed59"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 44,
+    "question": "Which of the following is true of the Beatles ?",
+    "answer": "They were a band .",
+    "source_url": "https://en.wikipedia.org/wiki/A_Day_in_the_Life",
+    "source_ids": [
+      "e77de4e9-5559-486f-afb8-596d5b57f61f"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 45,
+    "question": "Which algorithm is more secure against brute-force search?",
+    "answer": "AES-128",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+    "source_ids": [
+      "61d0d05c-f473-4e85-9efb-3e632c7f3ffc"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 46,
+    "question": "Which of the following is true of the circular economy ?",
+    "answer": "The circular economy is a form of economic growth .",
+    "source_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "source_ids": [
+      "726b0005-2aad-4166-8a8a-fa1e97b6bc8a"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 47,
+    "question": "Which happened first , the codification of the law or the codification of a law of general obligations ?",
+    "answer": "codification of the law",
+    "source_url": "https://en.wikipedia.org/wiki/Common_law",
+    "source_ids": [
+      "f89cd781-1df7-4a01-9d83-a1171ce157da"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 48,
+    "question": "What will happen to the Baka men after they are initiated?",
+    "answer": "They will be allowed to live and walk freely within the sacred forest",
+    "source_url": "https://en.wikipedia.org/wiki/Baka_people_(Cameroon_and_Gabon)",
+    "source_ids": [
+      "80e527f4-5868-40f3-89b3-c9100e351519"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 49,
+    "question": "What is the most common type of rock?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+    "source_ids": [
+      "15991b89-6ac9-4ac9-9b28-fb84659dc7b7"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 50,
+    "question": "What is the most important factor that affects the use of renewable energy?",
+    "answer": "d).",
+    "source_url": "https://en.wikipedia.org/wiki/Renewable_energy",
+    "source_ids": [
+      "0bec941b-63ef-4dba-8686-4a70ba5f6ae1"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 51,
+    "question": "What is the best title for this passage?",
+    "answer": "atoms",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+    "source_ids": [
+      "2d154472-306d-4d20-b236-ed485b5101e0"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 52,
+    "question": "Which of the following is not a characteristic of a chimpanzee :",
+    "answer": "a chimpanzee is a chimpanzee",
+    "source_url": "https://en.wikipedia.org/wiki/Ecology",
+    "source_ids": [
+      "9767f98c-1400-4fea-8248-2bad364107d3"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 53,
+    "question": "Which happened first , Napoleon Napoleon Bonaparte overthrew the government or Napoleon Bonaparte crowned himself Emperor ?",
+    "answer": "Napoleon Napoleon Bonaparte overthrew the government",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_Europe",
+    "source_ids": [
+      "609b98cf-085d-49be-b603-23534e8b52b1"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 54,
+    "question": "What is the narrator likely to do next?",
+    "answer": "They are likely to sign a contract .",
+    "source_url": "https://en.wikipedia.org/wiki/Contract",
+    "source_ids": [
+      "6bc194c3-d0b2-4d05-a2ac-5fec20d44080"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 55,
+    "question": "What is the most important factor that determines the success of a program?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Surgery",
+    "source_ids": [
+      "83e73be2-6eb9-4483-bb2e-6f1431d1a5a8"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 56,
+    "question": "What may be the reason for central banks to be reluctant to follow money growth targets ?",
+    "answer": "They believe that the money stock measures that central banks can control tightly .",
+    "source_url": "https://en.wikipedia.org/wiki/Inflation",
+    "source_ids": [
+      "e6ed19db-34a7-4273-acc9-4353dd97804c"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 57,
+    "question": "What was the name of the film that El Chocolate was in?",
+    "answer": "Los Torantos",
+    "source_url": "https://en.wikipedia.org/wiki/El_Chocolate",
+    "source_ids": [
+      "af4d90ad-17ea-41ae-b60e-d442c8ed7c6b"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 58,
+    "question": "Which of the following is true of the Kautiliyam?",
+    "answer": "The Kautiliyam is a cipher letter substitution.",
+    "source_url": "https://en.wikipedia.org/wiki/Cryptography",
+    "source_ids": [
+      "83b00a7c-3261-4b31-b788-b1562ca022ae"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 59,
+    "question": "Which of the following is true of the enzyme-linked immunosorbent assay ?",
+    "answer": "The enzymes are the most important proteins .",
+    "source_url": "https://en.wikipedia.org/wiki/Biochemistry",
+    "source_ids": [
+      "1889eb26-2a1a-4c45-9103-28eafc3bfbce"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 60,
+    "question": "Which of the following is true of game theory?",
+    "answer": "It is a mathematical model of strategic interactions.",
+    "source_url": "https://en.wikipedia.org/wiki/Game_theory",
+    "source_ids": [
+      "2175707b-a6af-4fdf-9c54-3a1b94d13451"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 61,
+    "question": "Which of the following is not a characteristic of quantum coherence: entanglement or quantum superpositions?",
+    "answer": "entanglement",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+    "source_ids": [
+      "d119d323-8724-4f13-a292-3139cd79aedb"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 62,
+    "question": "What happened to the Bahmani Sultanate in 1490?",
+    "answer": "revolted",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+    "source_ids": [
+      "6c39d039-3a4e-4acf-b961-ed42f9b7216a"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 63,
+    "question": "Which of the following is true according to the passage? (A) The sample frequency is higher than the sampling frequency. (B) The sample frequency is higher than the sampling frequency. (C) The sample frequency is higher than the sampling frequency.",
+    "answer": "(A)",
+    "source_url": "https://en.wikipedia.org/wiki/Digital_signal_processing",
+    "source_ids": [
+      "e0f67aff-debe-41a8-8343-54f6e3c888e7"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 64,
+    "question": "What may be the reason for the Entomopter's lack of flight ability?",
+    "answer": "It is a biologically-inspired flying robot.",
+    "source_url": "https://en.wikipedia.org/wiki/Robotics",
+    "source_ids": [
+      "665acc82-3f41-461a-a530-cd5a8e68554b"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 65,
+    "question": "What is the smallest element in the periodic table ?",
+    "answer": "elemen",
+    "source_url": "https://en.wikipedia.org/wiki/Periodic_table",
+    "source_ids": [
+      "aad4a3fc-0fd8-4d2a-9b17-203c84317dba"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 66,
+    "question": "What is the narrator likely to do next?",
+    "answer": "They are likely to discuss imperialism .",
+    "source_url": "https://en.wikipedia.org/wiki/Imperialism",
+    "source_ids": [
+      "de424f4f-b95e-4140-8b6f-bac7eeb42090"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 67,
+    "question": "Which of the following is true according to the passage? (A) The Internet is a good source of information. (B) The Internet is a good source of information. (C) The Internet is a good source of information.",
+    "answer": "(B)",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_security",
+    "source_ids": [
+      "a9939e78-7aec-424c-a7dd-e689f0b464cb"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 68,
+    "question": "What may be the reason for the passage of the law ?",
+    "answer": "The state was a state .",
+    "source_url": "https://en.wikipedia.org/wiki/Constitution_of_India",
+    "source_ids": [
+      "cb2bb710-17c9-4bd0-9e8b-eb68ce13b5a5"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 69,
+    "question": "Which of the following is true of an embedded system:",
+    "answer": "(iii).",
+    "source_url": "https://en.wikipedia.org/wiki/Embedded_system",
+    "source_ids": [
+      "6cc27a8a-b814-4fad-8e79-06f301b82f03"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 70,
+    "question": "What is the most likely reason that Al-Jazari invented programmable automata/robots ?",
+    "answer": "He wanted to make music .",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_technology",
+    "source_ids": [
+      "513f9060-8d22-43f0-af76-62d57458c560"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 71,
+    "question": "Which happened first, Sun Yat-sen becoming President of the Republic of China or Yuan Shikai becoming President of the New Army?",
+    "answer": "Sun Yat-sen becoming President of the Republic of China",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_China",
+    "source_ids": [
+      "fb7ca136-15e0-4d01-aa0d-4f614b76f52f"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 72,
+    "question": "What is the narrator likely to do next ?",
+    "answer": "They are likely to study the planets .",
+    "source_url": "https://en.wikipedia.org/wiki/Geology",
+    "source_ids": [
+      "e181b5a1-26b8-4857-bc4b-b53cbb3d1123"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 73,
+    "question": "Which of the following is true according to the text? (A) The text is a text that is written by a person. (B) The text is a text that is written by a person. (C) The text is a text that is written by a person.",
+    "answer": "(B)",
+    "source_url": "https://en.wikipedia.org/wiki/Text_mining",
+    "source_ids": [
+      "c5169fe3-7247-459d-92a6-e71e8e742712"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 74,
+    "question": "Which of the following is true of biodiversity?",
+    "answer": "It provides ecosystem services",
+    "source_url": "https://en.wikipedia.org/wiki/Ecology",
+    "source_ids": [
+      "a66b427c-78a6-4c07-a6d0-b6e348955cfb"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 75,
+    "question": "Which of the following is true according to the passage ? (A) The graph is a graphical representation of the graph. (B) The graph is a graphical representation of the graph. (C) The graph is a graphical representation of the graph.",
+    "answer": "(B)",
+    "source_url": "https://en.wikipedia.org/wiki/Semantic_Web",
+    "source_ids": [
+      "ab806da7-dc6f-444b-aebc-ae87e83d4f81"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 76,
+    "question": "Which of the following is true of John Leslie ?",
+    "answer": "He is a scientist .",
+    "source_url": "https://en.wikipedia.org/wiki/Meteorology",
+    "source_ids": [
+      "6e188a3a-c690-4624-943d-f85ef32080fd"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 77,
+    "question": "What may be the reason for the author to be so critical of fossil fuel companies ?",
+    "answer": "They believe that they are a threat to the environment .",
+    "source_url": "https://en.wikipedia.org/wiki/Politics_of_climate_change",
+    "source_ids": [
+      "bfc8f4d5-9805-412c-b290-75daa0fe6115"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 78,
+    "question": "What is the narrator likely to do next?",
+    "answer": "They are likely to take a break .",
+    "source_url": "https://en.wikipedia.org/wiki/Biology",
+    "source_ids": [
+      "2fcff61b-1573-4a45-aae9-16795027c025"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 79,
+    "question": "Which of the following is true of the Trinity site?",
+    "answer": "It is located at an elevation of about 20 miles ( 32 km ) northwest of Little Black Peak .",
+    "source_url": "https://en.wikipedia.org/wiki/Carrizozo_volcanic_field",
+    "source_ids": [
+      "e281a36e-f758-466b-9197-8ce9af48b6f3"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 80,
+    "question": "Which of the following is true of the text ?",
+    "answer": "The text is a political one .",
+    "source_url": "https://en.wikipedia.org/wiki/Politics_of_climate_change",
+    "source_ids": [
+      "45508509-8c02-44a2-be6c-7d3e53422479"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 81,
+    "question": "Which of the following is true of TPUs ?",
+    "answer": "They are a key component of AI infrastructure .",
+    "source_url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "source_ids": [
+      "e7649925-f31a-488c-8179-4bc9058c5ba1"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 82,
+    "question": "What is the main difference between the two groups of people?",
+    "answer": "The bourgeoisie produces above all is its own grave diggers '' , namely the working class , which must become conscious of the historical objectives set it by society . Reform versus revolution Revolutionary socialists believe that a social revolution is necessary to effect structural changes to the socioeconomic structure of society . Among revolutionary socialists there are differences in strategy , theory and the definition of revolution . Orthodox Marxists and left comm",
+    "source_url": "https://en.wikipedia.org/wiki/Socialism",
+    "source_ids": [
+      "b1a7e9fb-ce18-4562-b62e-09621995d3b6"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 83,
+    "question": "What is the most common type of testing?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Software_testing",
+    "source_ids": [
+      "89226d94-a346-45e4-b185-d9580a53da0d"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 84,
+    "question": "Which of the following is true of the information classification policy ?",
+    "answer": "The policy should describe the different classification labels , define the criteria for information to be assigned a particular label , and list the required security controls for each classification .",
+    "source_url": "https://en.wikipedia.org/wiki/Information_security",
+    "source_ids": [
+      "d7e98a13-4b6c-4532-b211-5b4ca138d212"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 85,
+    "question": "What may be the reason for the high-level description of the computer architecture ?",
+    "answer": "The purpose of the description is to avoid details of the implementation .",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_architecture",
+    "source_ids": [
+      "ce997c58-dbc8-4eb0-b489-ea31e740f577"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 86,
+    "question": "Question: What is the best title for the passage?Options:A Anti-work ethic for lifeB Anti-work ethic for workC Anti-work ethic for lifeD Anti-work ethic for lifeAnswer:A",
+    "answer": "Anti-work ethic for life",
+    "source_url": "https://en.wikipedia.org/wiki/Unemployment",
+    "source_ids": [
+      "bd87a254-7ac8-4bc7-9476-5075c3c7bd2d"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 87,
+    "question": "Which of the following is not a type of government: the government of China or the government of the United States?",
+    "answer": "the government of China",
+    "source_url": "https://en.wikipedia.org/wiki/Dandong",
+    "source_ids": [
+      "b93695c0-4b14-47c0-8409-6888d9fcc7c3"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 88,
+    "question": "What may be the reason for the children to have their heads shaved ?",
+    "answer": "They wanted to be clean .",
+    "source_url": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+    "source_ids": [
+      "735c8203-912c-4db9-966d-450efbe9afab"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 89,
+    "question": "What is the main reason that the government is unable to regulate the economy?",
+    "answer": "The government is not able to regulate the economy.",
+    "source_url": "https://en.wikipedia.org/wiki/Public_policy",
+    "source_ids": [
+      "61d0ff98-3ca5-4a78-83f1-809b0093e963"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 90,
+    "question": "What may be the reason for Bentley's popularity ?",
+    "answer": "He is a professional jazz saxophonist .",
+    "source_url": "https://en.wikipedia.org/wiki/Jon_Bentley_(saxophonist)",
+    "source_ids": [
+      "b2fb9c10-7a7a-499c-8219-cdf6b29a9b1e"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 91,
+    "question": "Which of the following is true of the present-day climate change?",
+    "answer": "The current-day climate change is a result of human activities.",
+    "source_url": "https://en.wikipedia.org/wiki/Climate_change",
+    "source_ids": [
+      "aa8a8896-aef0-42eb-a086-f61e87456bb6"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 92,
+    "question": "What is the difference between a '' '' and a '' ?",
+    "answer": "a '' is a '' .",
+    "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "source_ids": [
+      "24b2184e-c46f-44bc-83a7-f7e50b2277d8"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 93,
+    "question": "What may be the reason for the speaker to be concerned about energy storage ?",
+    "answer": "They are concerned about the long-term viability of energy storage .",
+    "source_url": "https://en.wikipedia.org/wiki/Renewable_energy",
+    "source_ids": [
+      "581379e0-f318-4f1b-8079-767c578afba6"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 94,
+    "question": "i = 0 k H ( p i ) =  i = 0 k G ( q i )  displaystyle sum _  i = 0    k  G ( q_  i  )  ( see figure 2 ) . From the uniform distribution , the probability of q i",
+    "answer": "i = 0 k H ( p i ) =  i = 0 k G ( q i )  displaystyle sum _  i = 0    k  G ( q_  i  )  ( see figure 2 ) . From the uniform distribution , the probability of q i",
+    "source_url": "https://en.wikipedia.org/wiki/Digital_image_processing",
+    "source_ids": [
+      "17a88ffd-0e9e-4047-98ba-73e3362a3248"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 95,
+    "question": "What may be the reason for the speaker to be so critical of the writer ?",
+    "answer": "They think the writer is a bad writer .",
+    "source_url": "https://en.wikipedia.org/wiki/Software_testing",
+    "source_ids": [
+      "b87b8b11-5f6a-4a86-80e5-386210f70d3c"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 96,
+    "question": "Which of the following is true of the book 'Imagine '?",
+    "answer": "It is a companion to the John Lennon book .",
+    "source_url": "https://en.wikipedia.org/wiki/Van_Morrison:_Too_Late_to_Stop_Now",
+    "source_ids": [
+      "28967a13-023e-4380-a63b-fe10fa2a0ab9"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 97,
+    "question": "What is the most common type of clothing used by Egyptians?",
+    "answer": "combs",
+    "source_url": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+    "source_ids": [
+      "e5aecb65-e2a8-4469-a0c9-25ef92e3be71"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 98,
+    "question": "What will happen to the system if it is not tampered with?",
+    "answer": "it will be more secure",
+    "source_url": "https://en.wikipedia.org/wiki/Blockchain",
+    "source_ids": [
+      "7d9dd56b-6e84-4338-a10d-2c623b84efce"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 99,
+    "question": "What is the most common type of power plant?",
+    "answer": "(4).",
+    "source_url": "https://en.wikipedia.org/wiki/Renewable_energy",
+    "source_ids": [
+      "7f1133fe-4dd8-4008-be7c-5645d98b2984"
+    ],
+    "category": "factual"
+  }
+]
