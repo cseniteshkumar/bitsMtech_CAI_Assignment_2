@@ -4,8 +4,10 @@ import wikipedia
 
 
 
-def generate_fixed_urls():
-    # This function can be expanded to programmatically generate URLs if needed
+def generate_random_urls(topcis="Science and Technology",ignoreUrls=[] num_urls=100):
+    
+    generatedUrls = []
+
     fixed_urls = [
         "https://en.wikipedia.org/wiki/Artificial_intelligence",
         "https://en.wikipedia.org/wiki/Machine_learning",
