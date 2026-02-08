@@ -31,3 +31,5 @@ tqdm
 ### Required Libraries. 
 gradio
 chromadb
+
+
